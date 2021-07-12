@@ -42,7 +42,7 @@ White: #FFFFFF
 .inLink{
     float: right;
     margin-top: 8em;
-    margin-right: 1em;
+    margin-top: 0.5em;
 }
 .heading{
 grid-column: 1/7;  
@@ -101,7 +101,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: #3F3F3F;
 }
 
 
@@ -529,12 +529,6 @@ p.text{
 
 
   
-
-
-
-
-
-
 
 
 
