@@ -44,6 +44,13 @@ White: #FFFFFF
     margin-top: 8em;
     margin-right: 1.5em;
 }
+
+.gitLink{
+    float: right;
+    margin-top: 8em;
+    margin-right: 0.2em;
+}
+
 .heading{
 grid-column: 1/7;  
     text-align: center;
